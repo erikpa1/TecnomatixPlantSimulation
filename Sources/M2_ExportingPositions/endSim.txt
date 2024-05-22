@@ -1,0 +1,2 @@
+--endSim is predefined function name which is called on end of the simulation
+SQlite.close()
